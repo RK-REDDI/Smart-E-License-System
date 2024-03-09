@@ -16,8 +16,8 @@ import java.util.Collections;
 public class SendSMS {
 
     // TODO: 04/02/2024  Fill out All APIS Information to Send SMS
-    private static final String BASE_URL = "https://e1dlgq.api.infobip.com";
-    private static final String API_KEY = "YOUR_API_KEY";
+    private static final String BASE_URL = "1vznnx.api.infobip.com";
+    private static final String API_KEY = "8c8cbfa89fc8ada58b2206b003731193-3e9634ca-c971-4a6b-9cb6-9561942f1a24";
     private static final String RECIPIENT = "YOUR REGISTER NUMBER";
 
     public static void send(String message){
